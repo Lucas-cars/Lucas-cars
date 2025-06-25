@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lucas-cars
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Html-Css (very basic)
+- 🌱 I’m currently learning Javascript and Python.
+
 
 
 <!---
